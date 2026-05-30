@@ -1,4 +1,11 @@
 {
-  "$schema": "https://schema.railpack.com",
-  "phpExtensions": ["calendar", "gd", "zip"]
+  "phpExtensions": [
+    "calendar",
+    "gd",
+    "zip",
+    "imap",
+    "intl",
+    "exif",
+    "bcmath"
+  ]
 }
