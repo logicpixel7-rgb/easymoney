@@ -10,7 +10,7 @@
       "src": "/(.*)",
       "dest": "/api/index.php"
     }
-  ]
+  ],
   {
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "functions": {
