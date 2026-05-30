@@ -1,0 +1,7 @@
+{
+"phpExtensions": [
+"calendar",
+"gd",
+"zip"
+]
+}
